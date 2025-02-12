@@ -1,8 +1,8 @@
 Ansys Lumerical 2022 R1.3 Eigenmode Expansion Solver Version 7.19.3016 (Windows 64bit)
- expires (month/day/year): 2/4/2025
+ expires (month/day/year): 2/11/2025
 using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
 license host: 1055@melicense.embedded.ufcg.edu.br
-current time: ter fev 4 08:26:33 2025
+current time: ter fev 11 00:10:01 2025
 Running on host: DESKTOP-FOTONICA
 Running lms file: C:\Program Files\Lumerical\v221\bin\eme-engine-msmpi.exe -t 24 -remote -hide C:/Users/luciv/Documents/Lucivaldo/MZI/slab_s-parametersweep/s-parametersweep_1.lms
 Running MODE Simulation
@@ -10,23 +10,6 @@ Starting meshing
 Simulation size in gridpoints: 1 x 52 x 52
 Refined 0 mesh cells (0%)
 Completed meshing!
-Meshing complete in 0.015625 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 52 x 52
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Starting meshing
-Simulation size in gridpoints: 1 x 52 x 52
-Refined 0 mesh cells (0%)
-Completed meshing!
-Meshing complete in 0 seconds of CPU time
-Time to calculate modes :  10.8774
-Time to normalize fields and orthogonalize degenerate modes :  0.0266639
-Starting meshing
-Simulation size in gridpoints: 1 x 52 x 52
-Refined 0 mesh cells (0%)
-Completed meshing!
 Meshing complete in 0 seconds of CPU time
 Starting meshing
 Simulation size in gridpoints: 1 x 52 x 52
@@ -38,11 +21,13 @@ Simulation size in gridpoints: 1 x 52 x 52
 Refined 0 mesh cells (0%)
 Completed meshing!
 Meshing complete in 0 seconds of CPU time
+Time to calculate modes :  7.56585
+Time to normalize fields and orthogonalize degenerate modes :  0.0270681
 Starting meshing
 Simulation size in gridpoints: 1 x 52 x 52
 Refined 0 mesh cells (0%)
 Completed meshing!
-Meshing complete in 0.015625 seconds of CPU time
+Meshing complete in 0 seconds of CPU time
 Starting meshing
 Simulation size in gridpoints: 1 x 52 x 52
 Refined 0 mesh cells (0%)
@@ -53,8 +38,23 @@ Simulation size in gridpoints: 1 x 52 x 52
 Refined 0 mesh cells (0%)
 Completed meshing!
 Meshing complete in 0 seconds of CPU time
-Time to calculate overlaps : 30.5214
-Overall wall time measurements in seconds : 41.426
-Simulation completed successfully at: ter fev 4 08:27:14 2025
-Overall EME run time, measurements in seconds: 43.2548
+Starting meshing
+Simulation size in gridpoints: 1 x 52 x 52
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 52 x 52
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 52 x 52
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Time to calculate overlaps : 21.7118
+Overall wall time measurements in seconds : 29.3052
+Simulation completed successfully at: ter fev 11 00:10:31 2025
+Overall EME run time, measurements in seconds: 31.2033
 Total number of processes used by EME simulation : 1
